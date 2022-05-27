@@ -38,12 +38,12 @@
             <input type="Submit" value="Calculate" id="calculateBtn">
         </form>
         <div id="summary">
-            <p>Tax Ammount: 
+            <p>Tax Amount: 
                 <span id="taxAmmount">
                     <?=$taxAmount ?>
                 </span>
             </p>
-            <p>Final Ammount: 
+            <p>Final Amount: 
                 <span id="finalAmmount">
                     <?=$finalAmount ?> 
                 </span>
